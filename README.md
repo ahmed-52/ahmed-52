@@ -12,4 +12,4 @@
 - [Email](mailto:aaa384@cornell.edu)
 
 
-Feel free to reach out for collaborations or just to say hi! 😊
+Feel free to reach out for collaborations or just to say hi! 
