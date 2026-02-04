@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ahmed Abdulla
 
-🎓 Information Science Major @ Cornell University '27
+🎓 Information Science @ Cornell University 
 
 #### About Me
 - 📚 Currently pursuing my degree in Information Science
