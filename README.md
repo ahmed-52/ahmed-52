@@ -3,7 +3,6 @@
 🎓 Information Science @ Cornell University 
 
 #### About Me
-- 📚 Currently pursuing my degree in Information Science
 - 🌟 Passionate about technology and its impact on society
 - 🚀 Always eager to learn and collaborate on interesting projects
 
