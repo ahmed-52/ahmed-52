@@ -16,15 +16,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-52&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E34F26&icon_color=E34F26&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-52&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9" />
-</div>
-
----
-
 ###  Streak Stats
 
 <p align="center">
