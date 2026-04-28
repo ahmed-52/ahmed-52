@@ -16,15 +16,6 @@
 
 ---
 
-### Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,tailwind,react,nextjs,nodejs,flask,fastapi,docker,aws,postgresql,linux,git,github,vscode&perline=7" />
-</p>
-
-
----
-
 ### GitHub Stats
 
 <div align="center">
